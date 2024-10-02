@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\bin\Debug\net8.0\ZahlenRaten.exe
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\bin\Debug\net8.0\ZahlenRaten.deps.json
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\bin\Debug\net8.0\ZahlenRaten.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\bin\Debug\net8.0\ZahlenRaten.dll
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\bin\Debug\net8.0\ZahlenRaten.pdb
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.dll
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\refint\ZahlenRaten.dll
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.pdb
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ZahlenRaten.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\ZahlenRaten\ZahlenRaten\obj\Debug\net8.0\ref\ZahlenRaten.dll
