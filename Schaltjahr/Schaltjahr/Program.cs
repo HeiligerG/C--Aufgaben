@@ -18,7 +18,7 @@ class Program
             if (input.ToLower() == "q")
                 break;
 
-            if (int.TryParse(input, out int jahr))
+            if (int.TryParse(input, out var jahr))
             {
                 bool istSchaltjahr = mySchaltjahrPrüfer.IstSchaltjahr(jahr);
                 if (istSchaltjahr)

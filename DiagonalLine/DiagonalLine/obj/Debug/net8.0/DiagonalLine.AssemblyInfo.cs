@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiagonalLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef4bb0497f84a3533c0b072166f2988677af92a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiagonalLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiagonalLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

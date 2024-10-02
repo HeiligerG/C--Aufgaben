@@ -6,11 +6,11 @@ public class SchaltjahrPrüfer
     {
         switch (jahr)
         {
-            case int n when n % 400 == 0:
+            case var n when n % 400 == 0:
                 return true;
-            case int n when n % 100 == 0:
+            case var n when n % 100 == 0:
                 return false;
-            case int n when n % 4 == 0:
+            case var n when n % 4 == 0:
                 return true;
             default:
                 return false;
