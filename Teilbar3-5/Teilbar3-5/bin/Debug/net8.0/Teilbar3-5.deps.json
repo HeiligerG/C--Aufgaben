@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Teilbar3-5/1.0.0": {
+        "runtime": {
+          "Teilbar3-5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teilbar3-5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

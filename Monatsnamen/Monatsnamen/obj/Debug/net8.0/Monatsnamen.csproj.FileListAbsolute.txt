@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\bin\Debug\net8.0\Monatsnamen.exe
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\bin\Debug\net8.0\Monatsnamen.deps.json
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\bin\Debug\net8.0\Monatsnamen.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\bin\Debug\net8.0\Monatsnamen.dll
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\bin\Debug\net8.0\Monatsnamen.pdb
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.dll
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\refint\Monatsnamen.dll
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.pdb
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\Monatsnamen.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Monatsnamen\Monatsnamen\obj\Debug\net8.0\ref\Monatsnamen.dll

@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\bin\Debug\net8.0\Addierer.exe
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\bin\Debug\net8.0\Addierer.deps.json
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\bin\Debug\net8.0\Addierer.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\bin\Debug\net8.0\Addierer.dll
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\bin\Debug\net8.0\Addierer.pdb
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.dll
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\refint\Addierer.dll
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.pdb
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\Addierer.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Addierer\Addierer\obj\Debug\net8.0\ref\Addierer.dll

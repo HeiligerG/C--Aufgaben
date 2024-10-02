@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\bin\Debug\net8.0\TeilenDurchQuer.exe
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\bin\Debug\net8.0\TeilenDurchQuer.deps.json
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\bin\Debug\net8.0\TeilenDurchQuer.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\bin\Debug\net8.0\TeilenDurchQuer.dll
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\bin\Debug\net8.0\TeilenDurchQuer.pdb
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.dll
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\refint\TeilenDurchQuer.dll
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.pdb
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\TeilenDurchQuer.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\TeilenDurchQuer\TeilenDurchQuer\obj\Debug\net8.0\ref\TeilenDurchQuer.dll

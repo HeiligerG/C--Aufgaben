@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\bin\Debug\net8.0\Kleines1x1.exe
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\bin\Debug\net8.0\Kleines1x1.deps.json
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\bin\Debug\net8.0\Kleines1x1.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\bin\Debug\net8.0\Kleines1x1.dll
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\bin\Debug\net8.0\Kleines1x1.pdb
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.dll
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\refint\Kleines1x1.dll
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.pdb
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\Kleines1x1.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Kleines1x1\Kleines1x1\obj\Debug\net8.0\ref\Kleines1x1.dll

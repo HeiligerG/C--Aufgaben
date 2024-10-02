@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\bin\Debug\net8.0\SekundenZähler.exe
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\bin\Debug\net8.0\SekundenZähler.deps.json
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\bin\Debug\net8.0\SekundenZähler.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\bin\Debug\net8.0\SekundenZähler.dll
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\bin\Debug\net8.0\SekundenZähler.pdb
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.dll
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\refint\SekundenZähler.dll
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.pdb
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\SekundenZähler.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\SekundenZähler\SekundenZähler\obj\Debug\net8.0\ref\SekundenZähler.dll

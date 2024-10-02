@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\bin\Debug\net8.0\Schaltjahr.exe
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\bin\Debug\net8.0\Schaltjahr.deps.json
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\bin\Debug\net8.0\Schaltjahr.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\bin\Debug\net8.0\Schaltjahr.dll
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\bin\Debug\net8.0\Schaltjahr.pdb
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.dll
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\refint\Schaltjahr.dll
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.pdb
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\Schaltjahr.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Schaltjahr\Schaltjahr\obj\Debug\net8.0\ref\Schaltjahr.dll

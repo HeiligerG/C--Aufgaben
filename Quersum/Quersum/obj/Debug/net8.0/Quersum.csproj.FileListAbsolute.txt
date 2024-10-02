@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\bin\Debug\net8.0\Quersum.exe
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\bin\Debug\net8.0\Quersum.deps.json
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\bin\Debug\net8.0\Quersum.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\bin\Debug\net8.0\Quersum.dll
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\bin\Debug\net8.0\Quersum.pdb
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.dll
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\refint\Quersum.dll
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.pdb
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\Quersum.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Quersum\Quersum\obj\Debug\net8.0\ref\Quersum.dll

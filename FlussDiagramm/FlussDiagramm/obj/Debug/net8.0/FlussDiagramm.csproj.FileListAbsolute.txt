@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\bin\Debug\net8.0\FlussDiagramm.exe
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\bin\Debug\net8.0\FlussDiagramm.deps.json
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\bin\Debug\net8.0\FlussDiagramm.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\bin\Debug\net8.0\FlussDiagramm.dll
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\bin\Debug\net8.0\FlussDiagramm.pdb
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.dll
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\refint\FlussDiagramm.dll
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.pdb
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\FlussDiagramm.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\FlussDiagramm\FlussDiagramm\obj\Debug\net8.0\ref\FlussDiagramm.dll
