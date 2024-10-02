@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeilenDurchQuer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea108ba2fff0e18f19cf2c278c685f2dc0b9b669")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeilenDurchQuer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeilenDurchQuer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
