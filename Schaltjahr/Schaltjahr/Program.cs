@@ -1,9 +1,12 @@
 ﻿using System;
+using Schaltjahr;
 
 class Program
 {
     static void Main()
     {
+        SchaltjahrPrüfer mySchaltjahrPrüfer = new SchaltjahrPrüfer();
+        
         Console.WriteLine("Prüfen, ob es sich bei einem Jahr um ein Schaltjahr handelt.");
         Console.WriteLine("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
@@ -17,7 +20,7 @@ class Program
 
             if (int.TryParse(input, out int jahr))
             {
-                bool istSchaltjahr = IstSchaltjahr(jahr);
+                bool istSchaltjahr = mySchaltjahrPrüfer.IstSchaltjahr(jahr);
                 if (istSchaltjahr)
                     Console.WriteLine($"Das Jahr {jahr} ist ein Schaltjahr.");
                 else
@@ -29,21 +32,6 @@ class Program
             }
         }
     }
-    
-    static bool IstSchaltjahr(int jahr)
-        {
-            switch (jahr)
-            {
-                case int n when n % 400 == 0:
-                    return true;
-                case int n when n % 100 == 0:
-                    return false;
-                case int n when n % 4 == 0:
-                    return true;
-                default:
-                    return false;
-            }
-        }
 }
 
 
