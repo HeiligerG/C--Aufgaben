@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\bin\Debug\net8.0\WitzeAPI.exe
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\bin\Debug\net8.0\WitzeAPI.deps.json
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\bin\Debug\net8.0\WitzeAPI.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\bin\Debug\net8.0\WitzeAPI.dll
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\bin\Debug\net8.0\WitzeAPI.pdb
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.dll
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\refint\WitzeAPI.dll
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.pdb
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\WitzeAPI.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\WitzeAPI\WitzeAPI\obj\Debug\net8.0\ref\WitzeAPI.dll

@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\bin\Debug\net8.0\TaschenRechner.exe
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\bin\Debug\net8.0\TaschenRechner.deps.json
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\bin\Debug\net8.0\TaschenRechner.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\bin\Debug\net8.0\TaschenRechner.dll
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\bin\Debug\net8.0\TaschenRechner.pdb
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.dll
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\refint\TaschenRechner.dll
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.pdb
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\TaschenRechner.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\TaschenRechner\TaschenRechner\obj\Debug\net8.0\ref\TaschenRechner.dll

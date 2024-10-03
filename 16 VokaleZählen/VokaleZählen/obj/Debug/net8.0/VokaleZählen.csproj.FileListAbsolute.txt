@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\bin\Debug\net8.0\VokaleZählen.exe
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\bin\Debug\net8.0\VokaleZählen.deps.json
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\bin\Debug\net8.0\VokaleZählen.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\bin\Debug\net8.0\VokaleZählen.dll
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\bin\Debug\net8.0\VokaleZählen.pdb
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.dll
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\refint\VokaleZählen.dll
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.pdb
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\VokaleZählen.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\VokaleZählen\VokaleZählen\obj\Debug\net8.0\ref\VokaleZählen.dll
