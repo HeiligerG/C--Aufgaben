@@ -9,12 +9,12 @@ zu verstehen.
 Die Solutions sind nicht bereinigt (Cleaned-up), also könnten noch unnötige Daten vorhanden sein und nebenbei ist der 
 Master Branch gewollt, klingt viel besser als main!
 
-  /) /) ~ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-( •-• ) ~ 𝐆 Viel Spass! (und Geduld mit meinen Fehlern) 𝓑
-/づづ ~ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+ [ 𝐆 Viel Spass! (und Geduld mit meinen Fehlern) 𝓑 ]
+
 
 Konstruktives Feedback ist immer willkommen! Falls du Verbesserungsvorschläge hast, zögere nicht, sie zu teilen.
 
 (╯°□°）╯︵ ┻━┻
 
-© 2024 [HolyG]. Alle Rechte vorbehalten.
+© 2024 HolyG. Alle Rechte vorbehalten.
