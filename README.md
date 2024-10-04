@@ -9,7 +9,7 @@ zu verstehen.
 Die Solutions sind nicht bereinigt (Cleaned-up), also könnten noch unnötige Daten vorhanden sein und nebenbei ist der 
 Master Branch gewollt, klingt viel besser als main!
 
-/) /) ~ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  /) /) ~ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ( •-• ) ~ 𝐆 Viel Spass! (und Geduld mit meinen Fehlern) 𝓑
 /づづ ~ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
