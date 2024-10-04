@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\bin\Debug\net8.0\Memory.exe
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\bin\Debug\net8.0\Memory.deps.json
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\bin\Debug\net8.0\Memory.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\bin\Debug\net8.0\Memory.dll
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\bin\Debug\net8.0\Memory.pdb
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.dll
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\refint\Memory.dll
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.pdb
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\Memory.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Memory\Memory\obj\Debug\net8.0\ref\Memory.dll

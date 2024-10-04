@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\bin\Debug\net8.0\MemoryTest.exe
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\bin\Debug\net8.0\MemoryTest.deps.json
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\bin\Debug\net8.0\MemoryTest.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\bin\Debug\net8.0\MemoryTest.dll
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\bin\Debug\net8.0\MemoryTest.pdb
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.dll
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\refint\MemoryTest.dll
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.pdb
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\MemoryTest.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\MemoryTest\MemoryTest\obj\Debug\net8.0\ref\MemoryTest.dll

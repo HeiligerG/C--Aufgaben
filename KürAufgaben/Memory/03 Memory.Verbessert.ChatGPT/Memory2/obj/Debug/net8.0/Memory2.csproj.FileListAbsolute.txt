@@ -1,0 +1,14 @@
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\bin\Debug\net8.0\Memory2.exe
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\bin\Debug\net8.0\Memory2.deps.json
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\bin\Debug\net8.0\Memory2.runtimeconfig.json
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\bin\Debug\net8.0\Memory2.dll
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\bin\Debug\net8.0\Memory2.pdb
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.AssemblyInfo.cs
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.dll
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\refint\Memory2.dll
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.pdb
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\Memory2.genruntimeconfig.cache
+C:\Users\ÜK-G7\RiderProjects\Memory2\Memory2\obj\Debug\net8.0\ref\Memory2.dll
